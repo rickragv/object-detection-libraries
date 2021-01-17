@@ -48,4 +48,9 @@ Note: Tensorlfow API only Trained for 2 epochs.
 
 The Detailed of model Training You can find in respective directories 
 
+# Sample Predections
+![plot](./data/predictions/image_000000003.jpg)
+![plot](./data/predictions/image_000000012.jpg)
+![plot](./data/predictions/image_000000015.jpg)
+![plot](./data/predictions/image_000000016.jpg)
 
