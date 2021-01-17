@@ -5,7 +5,7 @@ easy to use and IT WORKS! The details you can find here https://github.com/ultra
 I have used there yolov5m model to train
 
 # Trainaing
-The Details of Data creation and Training is found here 
+The Details of Data creation and Training is found in notebook. and for further informations you can check there's page  
 https://github.com/ultralytics/yolov5/wiki/Train-Custom-Data
 
 ```sh
