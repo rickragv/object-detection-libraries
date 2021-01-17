@@ -8,7 +8,11 @@ The model docker i published in docker hub and anyone can use it to run in any G
 https://hub.docker.com/repository/docker/rickragvdocker/tensorflow-object-detection-gpu
 
 Tensorflow API requires Tfrecord formats to train there API, so you have to create seperate train
-and test tfrecords and configure the path in config
+and test tfrecords and configure the path in config.
+Tensorflow required following files.
+- Tfrecords of data with annotations
+- pipeline.config of arch
+- label-map
 
 ```sh
 docker run --runtime=nvidia \
