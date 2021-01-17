@@ -40,11 +40,11 @@ Here are few Results of different architectures and libraries
 
 | Architecture/Lib | AP50 |
 | ------ | ------ |
-| FRCNN / Tensorflow | 62.1 |
+| FRCNN / Tensorflow | 62.1 ** |
 | FRCNN / Detectron 2 | 74.18 |
 | YoloV5m / ultralytics  | 63.0 |
 
-Note: Tensorflow API only Trained for 2 epochs.
+**Note: Tensorflow API only Trained for 2 epochs.
 
 The Detailed of model Training You can find in respective directories 
 
