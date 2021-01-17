@@ -44,7 +44,7 @@ Here are few Results of different architectures and libraries
 | FRCNN / Detectron 2 | 74.18 |
 | YoloV5m / ultralytics  | 63.0 |
 
-Note: Tensorlfow API only Trained for 2 epochs.
+Note: Tensorflow API only Trained for 2 epochs.
 
 The Detailed of model Training You can find in respective directories 
 
