@@ -1,6 +1,6 @@
 
 # YOLO V5 ? 
-There is open debate whether there is V5 or not but at the time of Training this i found the API
+There is open debate whether there is V5 or not but at the time of training  i found the API
 easy to use and IT WORKS! The details you can find here https://github.com/ultralytics/yolov5
 I have used there yolov5m model to train
 
